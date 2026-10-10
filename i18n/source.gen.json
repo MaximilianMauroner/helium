@@ -1321,6 +1321,12 @@
     "message": "Show loading progress in the address bar"
   },
   {
+    "name": "IDS_SETTINGS_COMPACT_FRAME_GRAB_HANDLE",
+    "source": "chrome/app/settings_strings.grdp",
+    "context": "Label for the toggle that reserves empty space beside the tabs for dragging the window in Compact layout.",
+    "message": "Reserve space to drag the window"
+  },
+  {
     "name": "IDS_CONTENT_CONTEXT_SYSTEM_TRANSLATE",
     "source": "chrome/app/generated_resources.grd",
     "context": "The name of the macOS system Translate command in the content area context menu",
